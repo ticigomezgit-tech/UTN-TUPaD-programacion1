@@ -1,0 +1,4 @@
+nombre, precio, cantidad
+arroz, 200.0, 30
+fideos, 100.5, 15
+polenta, 60.0, 10
